@@ -6,10 +6,10 @@ output: web
 topnav_title: Cửa cuốn Thành Công
 # this appears on the top navigation bar next to the home button
 
-site_title: Jekyll theme for documentation
+site_title: Cửa Cuốn Thành Công
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Your company
+company_name: Cửa cuốn Thành Công
 # this appears in the footer
 
 github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -37,7 +37,7 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: tomjoht@gmail.com
+feedback_email: nguyenquang128b@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
